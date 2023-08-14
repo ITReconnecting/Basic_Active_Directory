@@ -1,0 +1,5 @@
+408 - Permision denied
+200 - Success/Accepted
+101 - Data verification failed
+102 - Data was not found
+103 - Invalid Group/Group does not exist
